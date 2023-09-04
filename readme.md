@@ -11,5 +11,6 @@ most "end game/customizable" distro that isn't containers (distrobox) or virtual
 
 someone's effort to use cachyos repos on artix: https://www.reddit.com/r/artixlinux/comments/15cl4rp/comment/jty08qq
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 best IMMUTABLE pre-configured gaming distro: [Bazzite desktop variant (HTPC variant only supports AMD gpus at the time of writing this)](https://github.com/ublue-os/bazzite/#desktop)
