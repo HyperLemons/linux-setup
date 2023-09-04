@@ -15,7 +15,7 @@ These will hopefully end up as guides for setting up these 2 OS's as best as pos
 And I still need to find the best **STABLE** and **COMPTAIBLE WITH MOST DEVICES/DEVICE BIOS** boot manager if [Grub](https://alternativeto.net/software/grub/?license=opensource&sort=likes) isn't the best!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-So far what ive found for myself:
+So far what i've found for myself:
 
 Most "end game/customizable" distro that isn't containers (Distrobox) or virtualization (VanillaOS? must recheck): [Bedrock Linux](https://bedrocklinux.org/)
 
