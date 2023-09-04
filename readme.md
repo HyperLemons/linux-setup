@@ -12,7 +12,7 @@ My goals are inspired by the [PC-Tuning](https://github.com/amitxv/PC-Tuning) gu
 
 These will hopefully end up as guides for setting up these 2 OS's as best as possible for dual booting (with or without seperate drives, I am still unsure of... current dual boot setup on a laptop on same drive works fine but I have started to read up on Windows updates quite possibly breaking linux even though its formatted in btrfs and the pc-tuning guide pretty much disables every update possible for everthing... need to research this further).
 
-Amd I still need to find the best boot manager if [Grub](https://alternativeto.net/software/grub/?license=opensource&sort=likes) isn't the best!
+And I still need to find the best **STABLE** and **COMPTAIBLE WITH MOST DEVICES/DEVICE BIOS** boot manager if [Grub](https://alternativeto.net/software/grub/?license=opensource&sort=likes) isn't the best!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 So far what ive found for myself:
