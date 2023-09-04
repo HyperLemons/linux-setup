@@ -6,7 +6,7 @@ Currently serves as a place to get the most important linux things I need to kee
 
 Why not private the repo? ¯\_(ツ)_/¯
 
-Well if your reading this then you can take a look at what i've already written for myself to possibly help youself, or... you can possibly help ME! By opening an issue or PR with some way to go about my setup better if you happen to know something you think I would want listed. As a reminder, the setup will always be going towards finding/making a distro that is geared towards **preformance** all around (not really including stuff like scientific workloads) and most importantly **LATENCY**. And of course, debloated as possible.
+Well if your reading this then you can take a look at what i've already written for myself to possibly help youself, or... you can possibly help ME! By opening an issue or PR with some way to go about my setup better if you happen to know something you think I would want listed. As a reminder, the setup will always be going towards finding/making a distro that is geared towards **preformance** all around (not really including stuff like scientific workloads) and most importantly **LATENCY**. And of course, debloated as much as possible.
 
 My goals are inspired by the [PC-Tuning](https://github.com/amitxv/PC-Tuning) guide in it's extreme minimalism of stripping Windows ISOs, then debloating and tweaking the OS for most **preformance** and least **latency** possible. No different goals from my win10-setup repo, but just for Linux!
 
