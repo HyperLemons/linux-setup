@@ -4,6 +4,7 @@ this repo will be worked out to be like the win10-setup repo after i have found 
 so far what ive found for myself:
 
 most "end game/customizable" distro that isn't containers (distrobox) or virtualization (VanillaOS? must recheck): [Bedrock Linux](https://bedrocklinux.org/)
+
 "fastest" arch-based/fork distro (systemd only): [CachyOS](https://cachyos.org/)
 
 "fastest" arch-based/fork distro in BOOT TIME: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official) with **dinit** and **LXDE**
