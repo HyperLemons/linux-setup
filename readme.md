@@ -1,4 +1,4 @@
-this repo will be worked out to be like the win-setup repo after i have found myself the right repo and properly established myself with gpu + monitor support
+this repo will be worked out to be like the win10-setup repo after i have found myself the right repo and properly established myself with gpu + monitor support
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 so far what ive found for myself:
