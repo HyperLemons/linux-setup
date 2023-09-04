@@ -1,4 +1,4 @@
-This repo will be worked out to be like the win10-setup repo after I have found myself the right repo and properly established myself with gpu + monitor support.
+This repo will be worked out to be like the win10-setup repo after I have found myself the right distro and properly established myself with gpu + monitor support.
 
 Currently serves as a place to get the most important linux things I need to keep myself noted on going about to best install and tools before writing a guide for the public.
 
