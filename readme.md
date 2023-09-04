@@ -5,7 +5,7 @@ so far what ive found for myself:
 
 most "end game/customizable" distro that isn't containers (distrobox) or virtualization (VanillaOS? must recheck): [Bedrock Linux](https://bedrocklinux.org/)
 
-"fastest" arch-based/fork distro (systemd only): [CachyOS](https://cachyos.org/)
+"fastest" arch-based/fork distro (systemd only and their repos enforce systemd): [CachyOS](https://cachyos.org/)
 
 "fastest" BOOT TIME arch-based/fork distro BOOT TIME using **dinit** and **LXDE**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
 
