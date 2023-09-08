@@ -21,7 +21,7 @@ Most "end game/customizable" distro that isn't containers (Distrobox) or virtual
 
 "Fastest" Arch-based/fork distro (systemd only and their repos enforce systemd): [CachyOS](https://cachyos.org/)
 
-"Fastest" BOOT TIME Arch-based/fork distro BOOT TIME using **dinit** and **LXDE**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
+"Fastest" BOOT TIME Arch-based/fork distro using **dinit** and **LXDE**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
 
 Someone's effort to use CachyOS repos on Artix: https://www.reddit.com/r/artixlinux/comments/15cl4rp/comment/jty08qq
 
