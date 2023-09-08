@@ -28,3 +28,8 @@ Someone's effort to use CachyOS repos on Artix: https://www.reddit.com/r/artixli
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Best IMMUTABLE pre-configured gaming distro: [Bazzite desktop variant (HTPC variant only supports AMD gpus at the time of writing this)](https://github.com/ublue-os/bazzite/#desktop)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CachyOS kernel for Fedora (includes immutable distributions): https://copr.fedorainfracloud.org/coprs/bieszczaders/kernel-cachyos/
+Benchmark of different Fedora kernels (possibly outdated): https://reddit.com/r/Fedora/s/e0IFbgJVQF
