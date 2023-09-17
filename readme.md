@@ -37,7 +37,7 @@ Benchmark of different Fedora kernels (possibly outdated): https://reddit.com/r/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 LXinput mouse settings that pretty close to Windows stock (imo): https://files.catbox.moe/z3lwd5.png
 
-GUI for changing picom settings: https://github.com/qtilities/picom-conf/
+GUI for changing picom settings (requires building for some distros): https://github.com/qtilities/picom-conf/
 
 Alternative GUI (requires building and may be outdated/limited support): https://github.com/ohno9119/picom-conf-gtk
 
