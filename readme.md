@@ -34,6 +34,7 @@ Best IMMUTABLE pre-configured gaming distro: [Bazzite desktop variant (HTPC vari
 CachyOS kernel for Fedora (includes immutable distributions): https://copr.fedorainfracloud.org/coprs/bieszczaders/kernel-cachyos/
 
 Benchmark of different Fedora kernels (possibly outdated): https://reddit.com/r/Fedora/s/e0IFbgJVQF
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 LXinput mouse settings that pretty close to Windows stock (imo): https://files.catbox.moe/z3lwd5.png
 
