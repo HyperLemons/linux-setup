@@ -40,6 +40,10 @@ LXinput mouse settings that pretty close to Windows stock (imo): https://files.c
 
 GUI for changing picom settings (requires building for some distros): https://github.com/qtilities/picom-conf/
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Flatpak apps to install:
+
 Alternative GUI (requires building and may be outdated/limited support): https://github.com/ohno9119/picom-conf-gtk
 
 Manually starting and stopping Picom (not really needed but if you want to?, requires building for some distros): https://github.com/sparkylinux/sparky-picom
