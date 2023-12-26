@@ -7,11 +7,11 @@ Currently serves as a place to get the most important linux things I need to kee
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 So far what i've found for myself:
 
-Most "end game/customizable" distro that isn't containers (Distrobox) or virtualization (like VanillaOS): [Bedrock Linux](https://bedrocklinux.org/)
+Most **"end game/customizable"** distro that isn't containers (Distrobox) or virtualization (like VanillaOS): [Bedrock Linux](https://bedrocklinux.org/)
 
-"Fastest" Arch-based/fork distro (systemd only and their repos enforce systemd): [CachyOS](https://cachyos.org/)
+**"Fastest"** Arch-based/fork distro (systemd only and their repos enforce systemd): [CachyOS](https://cachyos.org/)
 
-"Fastest" BOOT TIME Arch-based/fork distro using **dinit** and **LXDE or LXQT (or probably Enlightenment if you can make that happen)**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
+**"Fastest" BOOT TIME** Arch-based/fork distro using **dinit** and **LXDE or LXQT (or probably Enlightenment if you can make that happen)**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
 
 Someone's effort to use CachyOS repos on Artix: https://www.reddit.com/r/artixlinux/comments/15cl4rp/comment/jty08qq
 
