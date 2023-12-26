@@ -11,7 +11,7 @@ Most "end game/customizable" distro that isn't containers (Distrobox) or virtual
 
 "Fastest" Arch-based/fork distro (systemd only and their repos enforce systemd): [CachyOS](https://cachyos.org/)
 
-"Fastest" BOOT TIME Arch-based/fork distro using **dinit** and **LXDE**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
+"Fastest" BOOT TIME Arch-based/fork distro using **dinit** and **LXDE or LXQT (or probably Enlightenment if you can make that happen)**: [Artix Linux (community built iso if base iso install is too complicated)](https://artixlinux.org/download.php#official)
 
 Someone's effort to use CachyOS repos on Artix: https://www.reddit.com/r/artixlinux/comments/15cl4rp/comment/jty08qq
 
@@ -32,7 +32,7 @@ GUI for changing picom settings (requires building for some distros): https://gi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Flatpak apps to install:
+Flatpak apps to install: (to be written/added)
 
 Alternative GUI (requires building and may be outdated/limited support): https://github.com/ohno9119/picom-conf-gtk
 
