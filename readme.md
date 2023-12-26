@@ -4,16 +4,6 @@ Currently serves as a place to get the most important linux things I need to kee
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Why not private the repo? ¯\_(ツ)_/¯
-
-Well if your reading this then you can take a look at what i've already written for myself to possibly help youself if your at a similar stage to where I am, or... you can possibly help ME! By opening an issue or PR with some way to go about my setup better if you happen to know something you think I would want listed. As a reminder, the setup will always be going towards finding/making a distro that is geared towards **preformance** all around (not really including stuff like scientific workloads) and most importantly **LATENCY**. That includes sound latency! And of course, debloated as much as possible.
-
-My goals are inspired by the [PC-Tuning](https://github.com/amitxv/PC-Tuning) guide in it's extreme minimalism of stripping Windows ISOs, then debloating and tweaking the OS for most **preformance** and least **latency** possible. No different goals from my win10-setup repo, but just for Linux!
-
-These will hopefully end up as guides for setting up these 2 OS's as best as possible for dual booting (with or without seperate drives, I am still unsure of... current dual boot setup on a laptop on same drive works fine but I have started to read up on Windows updates quite possibly breaking linux even though its formatted in btrfs and the pc-tuning guide pretty much disables every update possible for everthing... need to research this further).
-
-And I still need to find the best **STABLE** and **COMPTAIBLE WITH MOST DEVICES/DEVICE BIOS** boot manager if [Grub](https://alternativeto.net/software/grub/?license=opensource&sort=likes) isn't the best
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 So far what i've found for myself:
 
