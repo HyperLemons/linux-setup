@@ -7,7 +7,7 @@ Currently serves as a place to get the most important linux things I need to kee
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 So far what i've found for myself:
 
-Most "end game/customizable" distro that isn't containers (Distrobox) or virtualization (VanillaOS? must recheck): [Bedrock Linux](https://bedrocklinux.org/)
+Most "end game/customizable" distro that isn't containers (Distrobox) or virtualization (like VanillaOS): [Bedrock Linux](https://bedrocklinux.org/)
 
 "Fastest" Arch-based/fork distro (systemd only and their repos enforce systemd): [CachyOS](https://cachyos.org/)
 
