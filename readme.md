@@ -26,7 +26,7 @@ CachyOS kernel for Fedora (includes immutable distributions): https://copr.fedor
 Benchmark of different Fedora kernels (possibly outdated): https://reddit.com/r/Fedora/s/e0IFbgJVQF
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-LXinput mouse settings that pretty close to Windows stock (imo): https://files.catbox.moe/z3lwd5.png
+LXinput mouse settings that pretty close to Windows stock (this is my own feeling, there's no accuracy to if this is actually close to stock windows pointer): https://files.catbox.moe/z3lwd5.png
 
 GUI for changing picom settings (requires building for some distros): https://github.com/qtilities/picom-conf/
 
